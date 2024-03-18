@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CUBE
+  - DEATHZONE
+  - COLLIDER
+  - WALL
+  - BULLET_MOVE
+  - BULLET_TURN_RIGHT
+  - BULLET_TURN_LEFT
+  - DESTROYZONE
+  - BULLET_FIELD
+  - BULLET_COLL
+  - BUTTON
+  - LOCK_POINT
+  - COLL_MOVE
+  - COLL_TURN_RIGHT
+  - COLL_TURN_LEFT
+  - END_OBJECT
+  - SPRITE_ICON
+  - SPRITE_TEXT
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - FLOOR
+  - BULLET
+  - PLAYER
+  - BULLET
+  - PLAYER_CRASH
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
