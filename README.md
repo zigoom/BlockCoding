@@ -10,7 +10,7 @@
   - **일정 관리 -**  Trello  
   - **시용 디바이스 -**  Oculus Quest 1   
   - **Unity -** 2019.4.1f Ver 
-  - **IDE -** visual studio community 2019  
+  - **IDE -** Visual Studio Community 2019  
   - **그래픽 툴 -** Aseprite, Magicavoxel  
 <br/>
 
